@@ -1,3 +1,4 @@
+
 let taskInput = document.getElementById("newtsk"); 
 let addButton = document.getElementsByTagName("button")[0];
 let incompleteTaskHolder = document.getElementById("incompletetask"); 
@@ -130,4 +131,3 @@ for (let i = 0; i < completedTasksHolder.children.length; i++) {
 
     bindTaskEvents(completedTasksHolder.children[i], taskIncomplete);
 }
-
