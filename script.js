@@ -1,4 +1,3 @@
-
 let taskInput = document.getElementById("newtsk"); 
 let addButton = document.getElementsByTagName("button")[0];
 let incompleteTaskHolder = document.getElementById("incompletetask"); 
