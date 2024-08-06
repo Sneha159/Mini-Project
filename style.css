@@ -1,7 +1,8 @@
 
 body {
 	background: #ecf0f1;
-	background: url(../MiniProject/audio/pexels-armin-rimoldi-5553061.jpg);
+	//background: url(../MiniProject/audio/pexels-armin-rimoldi-5553061.jpg);
+	background-color:green;
 	height: 750px;
 	background-size: cover;
 	background-position: center;
